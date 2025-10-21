@@ -1,0 +1,35 @@
+*{
+    font-family: monospace;
+}
+body{
+    margin: 0;
+    background-color: #0e304c;
+    font-size: 15px;
+}
+header{
+    height: 100vh;
+    color: white;
+    background-color: #0e304c;
+}
+header h1{
+    font-size: 4rem;
+}
+h1{
+    font-size: 2rem;
+    color: white;
+}
+header h1{
+    color: white;
+    margin: 0;
+}
+section{
+    height: 100vh;
+    border: 1px solid grey;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    color: white;
+}
+h3{
+    font-size: 2rem;
+    color: white;
+}
